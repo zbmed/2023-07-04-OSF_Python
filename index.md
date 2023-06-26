@@ -3,18 +3,18 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "FU Berlin"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+venue: "ZB MED"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "CECAD (University of Cologne)"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "de"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
-latitude: "52.520008"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "13.404954"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "Mar 13-14, 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 - 16:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2023-03-13      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2022-03-14        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Rabea Müller", "Till Sauerwein", "Vanessa Scharf"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Ilias Choumani"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+latitude: "50.92539275795273"        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "6.920239763828412"       # decimal longitude of the workshop venue (use https://www.latlong.net)
+humandate: "Jul 04, 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "14:30 - 17:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2023-07-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2022-07-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Rabea Müller", "Vanessa Scharf"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["TBA"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["muellerr@zbmed.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.gwdg.de/mcgA9ZwNSjiwC2p50lQLpw # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
